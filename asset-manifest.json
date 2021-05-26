@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/IPSUM/static/css/main.8fbc421f.chunk.css",
+    "main.js": "/IPSUM/static/js/main.819516d7.chunk.js",
+    "main.js.map": "/IPSUM/static/js/main.819516d7.chunk.js.map",
+    "runtime-main.js": "/IPSUM/static/js/runtime-main.fc554ad3.js",
+    "runtime-main.js.map": "/IPSUM/static/js/runtime-main.fc554ad3.js.map",
+    "static/js/2.9c6019d5.chunk.js": "/IPSUM/static/js/2.9c6019d5.chunk.js",
+    "static/js/2.9c6019d5.chunk.js.map": "/IPSUM/static/js/2.9c6019d5.chunk.js.map",
+    "static/js/3.5822b38a.chunk.js": "/IPSUM/static/js/3.5822b38a.chunk.js",
+    "static/js/3.5822b38a.chunk.js.map": "/IPSUM/static/js/3.5822b38a.chunk.js.map",
+    "index.html": "/IPSUM/index.html",
+    "static/css/main.8fbc421f.chunk.css.map": "/IPSUM/static/css/main.8fbc421f.chunk.css.map",
+    "static/js/2.9c6019d5.chunk.js.LICENSE.txt": "/IPSUM/static/js/2.9c6019d5.chunk.js.LICENSE.txt",
+    "static/media/building.98d1eae2.jpg": "/IPSUM/static/media/building.98d1eae2.jpg",
+    "static/media/index.scss": "/IPSUM/static/media/fontello.f3bf748b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc554ad3.js",
+    "static/js/2.9c6019d5.chunk.js",
+    "static/css/main.8fbc421f.chunk.css",
+    "static/js/main.819516d7.chunk.js"
+  ]
+}
