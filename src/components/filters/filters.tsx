@@ -24,7 +24,7 @@ const Filters:FC = (props) => {
                             <em className={"icon-filter"}></em>
                         </button>
                         <Flex className="grid-controls ms-4">
-                            <button className={"btn-primary"}>
+                            <button className={"btn-primary"} disabled>
                                 <em className={"icon-grid-scuare"}> </em>
                             </button>
                             <button className={"btn-primary"}>

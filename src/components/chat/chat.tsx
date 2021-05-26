@@ -1,13 +1,14 @@
 import React, {FC} from 'react';
 import {Container} from "./styles";
+import Flex from "../../ui/flex";
 
 const Chat:FC = (props) => {
     return (
-        <Container className={"ro"}>
+        <Container>
             <div className="container cont position-relative">
-                <div className="icon">
+                <Flex className="icon" direction={"column"}>
                     <em className={"icon-chat"}></em>
-                </div>
+                </Flex>
             </div>
         </Container>
     )
