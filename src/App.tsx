@@ -5,6 +5,7 @@ import Filters from "./components/filters/filters";
 import RenderPrjects from "./components/renderProjects/renderProjects";
 import Footer from "./ui/footer";
 import {Projects} from "./projects";
+import Chat from "./components/chat/chat";
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
             <RenderPrjects projects={Projects}/>
         </div>
 
+        <Chat/>
         <Footer/>
     </div>
   );
