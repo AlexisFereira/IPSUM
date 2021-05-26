@@ -18,9 +18,14 @@ export const Container = styled.div`
         height:60px;
         width:60px;
         color:white;
-        line-height:60px;
+        line-height:50px;
         text-align:center;
         font-size:30px;
+        
+        @media all and (max-width:768px){
+            right:15px;
+            bottom:65px;
+        }
     }
     
 `

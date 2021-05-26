@@ -55,7 +55,7 @@ export const Container = styled.div`
                 height:100%;
                 width:20px;
                 color:#333333;
-                line-height:36px;
+                line-height:30px;
                 font-size:20px;
             }
             
